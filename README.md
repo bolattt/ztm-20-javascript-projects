@@ -18,4 +18,6 @@ I am going to use this repo to gather all the 20 projects that I did from ZTM fo
 14. NASA APOD [Github](https://github.com/bolattt/NASA-APOD) | [Demo](https://bolattt.github.io/NASA-APOD/)
 15. Math Spring Game [Github](https://github.com/bolattt/math-sprint-game) | [Demo](https://bolattt.github.io/math-sprint-game)
 16. Calculator [Github](https://github.com/bolattt/js-calculator) | [Demo](https://bolattt.github.io/js-calculator)
+17. Splash Page [Github](https://github.com/bolattt/splash-page) | [Demo](https://bolattt.github.io/splash-page)
+18. Paint Clone [Github](https://github.com/bolattt/paint-clone) | [Demo](https://bolattt.github.io/paint-clone)
 
